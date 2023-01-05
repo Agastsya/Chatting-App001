@@ -2,7 +2,7 @@
   "name": "chat-application",
   "version": "1.0.0",
   "description": "",
-  "main": "client.js",
+  "main": "/public/client.js",
   "scripts": {
     "dev": "nodemon server"
   },
